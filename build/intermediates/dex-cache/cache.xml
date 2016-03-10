@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-0f2fd940143fdc49557c0b424bc110d5ce896d57.jar" />
+    </item>
+    <item
+        jar="/Users/nealsimpson/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-f8db8a5c4b771e3a32c44aaa9b23005e9c48ea8c.jar" />
+    </item>
+    <item
+        jar="/Users/nealsimpson/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/pre-dexed/debug/glide-3.6.1-73ce4c3284fc8daabc89bd862eb340a26d443841.jar" />
+    </item>
+    <item
+        jar="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/exploded-aar/com.android.support/design/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/pre-dexed/debug/classes-44bda7a4670576a7983ad01e4d4bff1dc86043f3.jar" />
+    </item>
+    <item
+        jar="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/pre-dexed/debug/classes-5068bf8930f5b5830f922e828db90318f315c154.jar" />
+    </item>
+    <item
+        jar="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/pre-dexed/debug/classes-8fda53b50114aa2e443796acacca522d26f9fd94.jar" />
+    </item>
+    <item
+        jar="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/pre-dexed/debug/classes-eec094522f843005b3009715e46689fb5c918e2a.jar" />
+    </item>
+    <item
+        jar="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/pre-dexed/debug/classes-c479c9189734321e727b4ad1c3d26255de6cd03b.jar" />
+    </item>
+    <item
+        jar="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/pre-dexed/debug/classes-97677d3cf99bdc6f8a220d07526e255164423c7f.jar" />
+    </item>
+    <item
+        jar="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/pre-dexed/debug/classes-62ba2d6ede0bacf94b581552e43727144fd8ac92.jar" />
+    </item>
+    <item
+        jar="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-29413bba68d841ba9649b651a7d4b84dd07df6cb.jar" />
+    </item>
+    <item
+        jar="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/pre-dexed/debug/classes-9a0edbb9af1028f5d434d6ae25b55e200de02937.jar" />
+    </item>
+    <item
+        jar="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/pre-dexed/debug/classes-22000ac2c7666d9152d6000c1e6b74619bf2e37f.jar" />
+    </item>
+    <item
+        jar="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/exploded-aar/DisneyFlorida/Shared/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="17f57df9cb269b83e775d25334e73d63bee850aa">
+        <dex dex="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/pre-dexed/debug/classes-bc6764be3158e311951d67e9b6710f315db9895a.jar" />
+    </item>
+    <item
+        jar="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/pre-dexed/debug/classes-4ccdbb62487200a01dac8c738dd0a3a52e1298d0.jar" />
+    </item>
+    <item
+        jar="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.3.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="/Users/nealsimpson/Downloads/android/book_apps/ch10_NewsReader/DisneyFlorida/Application/build/intermediates/pre-dexed/debug/classes-f1b1489f943ebca6655f4cc3ba5218a382a67e54.jar" />
+    </item>
+
+</items>
